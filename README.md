@@ -1,2 +1,2 @@
 # Resource-Management
-A miniature ERP app in which users can peform CRUD of lists of employees, facilities and products.
+A miniature resource management system in which users can peform CRUD of lists of employees, facilities and products.
